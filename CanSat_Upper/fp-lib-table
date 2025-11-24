@@ -1,4 +1,7 @@
 (fp_lib_table
   (version 7)
-  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/footprints.pretty")(options "")(descr ""))
+  (lib (name "GPS")(type "KiCad")(uri "D:/Users/user/Documents/PCBs/CanSat_CommsBoard/Libs/GPS/footprints.pretty")(options "")(descr ""))
+  (lib (name "LDO")(type "KiCad")(uri "D:/Users/user/Documents/PCBs/CanSat_CommsBoard/Libs/LDO/footprints.pretty")(options "")(descr ""))
+  (lib (name "XBee")(type "KiCad")(uri "D:/Users/user/Documents/PCBs/CanSat_CommsBoard/Libs/XBee3/footprints.pretty")(options "")(descr ""))
+  (lib (name "Magnetometer")(type "KiCad")(uri "D:/Users/user/Documents/PCBs/CanSat_CommsBoard/Libs/Magnetometer/footprints.pretty")(options "")(descr ""))
 )
