@@ -16753,8 +16753,6 @@
 		(fill
 			(thermal_gap 0.2)
 			(thermal_bridge_width 0.3)
-			(smoothing fillet)
-			(radius 0.2)
 			(island_removal_mode 2)
 			(island_area_min 10)
 		)
@@ -16822,8 +16820,6 @@
 		(fill
 			(thermal_gap 0.2)
 			(thermal_bridge_width 0.3)
-			(smoothing fillet)
-			(radius 0.2)
 			(island_removal_mode 2)
 			(island_area_min 10)
 		)
@@ -16858,8 +16854,6 @@
 		(fill
 			(thermal_gap 0.2)
 			(thermal_bridge_width 0.3)
-			(smoothing fillet)
-			(radius 0.2)
 			(island_removal_mode 2)
 			(island_area_min 10)
 		)
@@ -16894,8 +16888,6 @@
 		(fill
 			(thermal_gap 0.2)
 			(thermal_bridge_width 0.3)
-			(smoothing fillet)
-			(radius 0.2)
 			(island_removal_mode 2)
 			(island_area_min 10)
 		)
@@ -16995,8 +16987,6 @@
 		(fill
 			(thermal_gap 0.2)
 			(thermal_bridge_width 0.3)
-			(smoothing fillet)
-			(radius 0.2)
 			(island_removal_mode 2)
 			(island_area_min 10)
 		)
@@ -17068,8 +17058,6 @@
 		(fill
 			(thermal_gap 0.2)
 			(thermal_bridge_width 0.3)
-			(smoothing fillet)
-			(radius 0.2)
 			(island_removal_mode 2)
 			(island_area_min 10)
 		)
